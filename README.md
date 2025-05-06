@@ -69,7 +69,7 @@
 
 ## Próximo Paso:
 
-¿Te gustaría que ahora detalláramos la estructura de la interfaz de usuario (wireframes básicos) para estas funcionalidades clave del MVP? Podemos empezar por la pantalla principal (Dashboard) y los formularios de registro de ingresos y gastos.
+
 
 
 
@@ -84,9 +84,9 @@ Miles de trabajadores independientes, emprendedores, domiciliarios, estilistas, 
 * **Una visión clara de su flujo de caja o deudas:** Incapacidad para anticipar problemas de liquidez o entender su situación de endeudamiento.
 * **Capacidad de ahorrar o planificar sus impuestos (RUT, Renta, etc.):** Falta de herramientas para reservar fondos para obligaciones fiscales.
 
-## ✅ Tu Solución SaaS:
+## ✅ Solución SaaS:
 
-Una plataforma web (y/o app) sencilla donde los usuarios puedan:
+Una plataforma web  sencilla donde los usuarios puedan:
 
 * **Registrar ingresos y gastos rápidamente:** Con categorización intuitiva para un mejor análisis.
 * **Ver su flujo de caja diario/semanal/mensual:** Una visión clara de la liquidez del negocio.
@@ -100,26 +100,19 @@ Una plataforma web (y/o app) sencilla donde los usuarios puedan:
 
 ## 💰 Monetización:
 
-* **Plan gratuito:** Hasta 30 registros/mes (ideal para probar y usuarios con menor volumen).
-* **Plan Pro ($15.000 – $25.000 COP/mes):** Reportes avanzados, exportar a Excel/CSV, alertas personalizadas por WhatsApp/Email, soporte prioritario.
-* **Afiliación:** Ganar comisión recomendando productos financieros relevantes para su público (billeteras digitales, CDT, préstamos para emprendedores, seguros, etc.).
 
 ## 👨‍💻 MVP Técnico:
 
-* **Frontend:** Angular o React (para una interfaz web moderna y reactiva).
+* **Frontend:** Angular  (para una interfaz web moderna y reactiva).
 * **Backend:** NestJS con PostgreSQL (backend robusto y escalable con una base de datos relacional confiable).
 * **Autenticación:** Firebase/Auth0 (soluciones de autenticación seguras y fáciles de implementar).
 * **Base de datos:** PostgreSQL (manejo seguro y eficiente de datos).
 * **Dashboard:** Gráficas interactivas para visualizar datos financieros (ej. con Chart.js o Recharts).
 
-## 🧠 Sugerencia de nombre tentativo:
+## 🧠 Sugerencias de nombre tentativo:
 
 * Finza
 * TuCaja
-* KashCol
-* CifrasYa
-* AhorraFacil
+
 
 ## Próximo Paso:
-
-¿Quieres que te ayude a organizar los módulos del sistema (ingresos, gastos, reportes, etc.) o diseñar el flujo de usuario del MVP?
