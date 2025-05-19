@@ -26,6 +26,13 @@ export class AuthService {
     if (existingUser) {
       throw new ConflictException('El email ya está registrado.');
     }
+        const existingNit = await this.prisma.businesses.findUnique({
+      where: { nit },
+    });
+
+    if (existingNit) {
+      throw new ConflictException('El nit ya está registrado.');
+    }
 
     try {
       // 2. Hash the password
